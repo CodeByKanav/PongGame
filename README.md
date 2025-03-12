@@ -10,5 +10,14 @@ Just a simple 2 Player Pong game written in Java.
    - Open the **src** folder in your preferred **IDE** (e.g., IntelliJ IDEA, Eclipse, etc).
    - Compile and run the **PongGame.java** file directly from the IDE.
 
+## Controls:
+- Player one (Red):
+### W - UP
+### D - DOWN
+
+- Player two (Blue):
+### I - UP
+### D - DOWN
+
 ## Language(s):
 - Java
