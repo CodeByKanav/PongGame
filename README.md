@@ -21,8 +21,8 @@ Just a simple 2 Player Pong game written in Java.
 
 ## Rules:
 - First player to 3 points wins.
-- 1 point given for scoring on the opponent
-- Speed of the ball increases as the round goes on
+- 1 point given for scoring on the opponent.
+- Speed of the ball increases as the round goes on.
 
 ## Difficulty Levels:
 - There are 4 difficulties:
