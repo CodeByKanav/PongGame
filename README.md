@@ -19,5 +19,17 @@ Just a simple 2 Player Pong game written in Java.
   - I - UP
   - K - DOWN
 
+## Rules:
+- First player to 3 points wins.
+- 1 point given for scoring on the opponent
+- Speed of the ball increases as the round goes on
+
+## Difficulty Levels:
+- There are 4 difficulties:
+  - Easy (Intial ball speed is slow)
+  - Medium (Initial ball speed is moderate)
+  - Hard (Initial ball speed is fast)
+  - Pongatron (Initial ball speed is very fast)
+
 ## Language(s):
 - Java
