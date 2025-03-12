@@ -8,7 +8,7 @@ Just a simple **2-player Pong game** written in **Java**.
 ### **Access and Run the Game from the Source Code**
    - Download the **src** folder (which includes all the **.java** files and resources like images) from the [GitHub repository](https://github.com/CodeByKanav/PongGame).
    - Open the **src** folder in your preferred **IDE** (e.g., IntelliJ IDEA, Eclipse, etc).
-   - Compile and run the **PongGame.java** file directly from the IDE.
+   - Compile and run the **Menu.java** file directly from the IDE.
 
 ## Controls:
 - **Player one (Red):**
