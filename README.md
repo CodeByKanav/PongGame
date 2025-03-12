@@ -1,5 +1,5 @@
 # Pong Game
-A **2-player Pong game** developed in **Java**.
+A **2-player Pong game** developed in **Java**, demonstrating object-oriented programming concepts.
 
 ## Requirements:
 - **Java** is required.
