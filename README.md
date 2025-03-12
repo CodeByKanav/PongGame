@@ -1,4 +1,4 @@
-# __Pong Game__
+# Pong Game
 Just a simple 2 Player Pong game written in Java.
 
 ## Requirements:
