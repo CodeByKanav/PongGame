@@ -1,21 +1,21 @@
 # Pong Game
-Just a simple 2 Player Pong game written in Java.
+Just a simple **2-player Pong game** written in **Java**.
 
 ## Requirements:
 - **Java** is required.
 
 ## How to run the game:
 ### **Access and Run the Game from the Source Code**
-   - Download the **src** folder (which includes all the java files and resources such as images) from the [GitHub repository](https://github.com/CodeByKanav/PongGame).
+   - Download the **src** folder (which includes all the **.java** files and resources like images) from the [GitHub repository](https://github.com/CodeByKanav/PongGame).
    - Open the **src** folder in your preferred **IDE** (e.g., IntelliJ IDEA, Eclipse, etc).
    - Compile and run the **PongGame.java** file directly from the IDE.
 
 ## Controls:
-- Player one (Red):
+- **Player one (Red):**
   - W - UP
   - D - DOWN
 
-- Player two (Blue):
+- **Player two (Blue):**
   - I - UP
   - K - DOWN
 
@@ -25,7 +25,7 @@ Just a simple 2 Player Pong game written in Java.
 - Speed of the ball increases as the round goes on.
 
 ## Difficulty Levels:
-- There are 4 difficulties:
+- **There are 4 difficulties:**
   - Easy (Intial ball speed is slow)
   - Medium (Initial ball speed is moderate)
   - Hard (Initial ball speed is fast)
