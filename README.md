@@ -1,5 +1,5 @@
 # Pong Game
-Just a simple **2-player Pong game** written in **Java**.
+A **2-player Pong game** developed in **Java**.
 
 ## Requirements:
 - **Java** is required.
